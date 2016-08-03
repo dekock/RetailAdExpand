@@ -1,62 +1,62 @@
 {
     "item": [{
-        "title": "Add 1",
+        "title": "Product 1",
         "description": "This is some blurb about the product 1",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now",
         "url": "http://www.google.com"
     }, {
-        "title": "Add 2",
+        "title": "Product 2",
         "description": "This is some blurb about the product 2",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 2",
         "url": "http://www.google.com"
     },{
-        "title": "Add 3",
+        "title": "Product 3",
         "description": "This is some blurb about the product 3",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 3",
         "url": "http://www.google.com"
     },{
-        "title": "Add 4",
+        "title": "Product 4",
         "description": "This is some blurb about the product 4",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 4",
         "url": "http://www.google.com"
     },{
-        "title": "Add 5",
+        "title": "Product 5",
         "description": "This is some blurb about the product 5",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 5",
         "url": "http://www.google.com"
     },{
-        "title": "Add 6",
+        "title": "Product 6",
         "description": "This is some blurb about the product 6",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 6",
         "url": "http://www.google.com"
     },{
-        "title": "Add 7",
+        "title": "Product 7",
         "description": "This is some blurb about the product6",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 6",
         "url": "http://www.google.com"
     },{
-        "title": "Add 8",
+        "title": "Product 8",
         "description": "This is some blurb about the product 7",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
         "cta": "Buy Now 7",
         "url": "http://www.google.com"
     },{
-        "title": "Add 9",
+        "title": "Product 9",
         "description": "This is some blurb about the product 8",
         "logo": "img/top_logo.gif",
         "image": "img/products/sugar.jpg",
