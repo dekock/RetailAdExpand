@@ -6,12 +6,6 @@ window.onload = function() {
     var listAds = document.getElementById('listAds');
     var getSide = document.getElementsByTagName('aside')[0];
 
-    //  console.log(adContainer);
-    //  console.log(closeBtn);
-    //  console.log(mainAd);
-    //  console.log(listAds);
-    //  console.log(moreBtn);
-
     //Functions===================================================================
     // Get Data
 
@@ -93,7 +87,6 @@ window.onload = function() {
                     listAds.appendChild(createItem);
 
 
-
                 }
                 var createMainItem = document.createElement('article');
                 createMainItem.classList = "item";
@@ -148,7 +141,10 @@ window.onload = function() {
                 createMoreLink.classList = "more";
                 createMoreLink.innerHTML = "View More";
                 createMainFooter.appendChild(createMoreLink);
+
+                //Event======================================================================
                 createMoreLink.onclick = showAds;
+                //Event end==================================================================
 
                 createMainItem.appendChild(createMainHeader);
                 createMainItem.appendChild(createMainFigure);
@@ -159,8 +155,8 @@ window.onload = function() {
                 adContainer.classList.add("visible");
             });
         }
-        //console.log(getData.data);
-    getData();
+
+    getData(); 
 
     var showAds = function() {
         //console.log("You Clicked Me");
